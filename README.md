@@ -5,6 +5,7 @@ Data infrastructure
 ===================
 
 -   Ke Shen and Paul Grech: Medium blog entry ["Data Scientist's Toolbox for Data Infrastructure I"](https://medium.com/@TheLaddersEng/data-scientists-toolbox-for-data-infrastructure-i-e25391f145a3)
+-   Andrew Heiss: ["Create a cheap, disposable supercomputer with R, DigitalOcean, and future"](https://www.andrewheiss.com/blog/2018/07/30/disposable-supercomputer-future/)
 
 Spatial data integration and processing
 ---------------------------------------
